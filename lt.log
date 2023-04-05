@@ -5,7 +5,7 @@
 {"level":"debug","time":"2022-10-07T18:49:39.373+0530","caller":"cmd/lt.go:211","msg":"Fetching config"}
 {"level":"warn","time":"2022-10-07T18:49:39.373+0530","caller":"core/lifecycle.go:47","msg":"Tunnel Name was not specified, using: 9b8b1af3-3c21-4cce-85f9-ef6aa6388aa5"}
 {"level":"debug","time":"2022-10-07T18:49:39.374+0530","caller":"runtime/asm_amd64.s:1594","msg":"Starting tunnel With flags: --user shubhamr@lambdatest.com --key ***** --ingress-only --verbose --proxy-host localhost --proxy-port 8145"}
-{"level":"debug","time":"2022-10-07T18:49:39.847+0530","caller":"cmd/lt.go:211","msg":"Remote config fetched"}
+{"level":"debug","time":"2022-10-07T18:49:39.847+0530","caller":"cmd/lt.go:211","msg":"Remote config fetched"}e
 {"level":"debug","time":"2022-10-07T18:49:40.079+0530","caller":"runtime/asm_amd64.s:1594","msg":"Trying on port 22"}
 {"level":"debug","time":"2022-10-07T18:49:40.079+0530","caller":"core/lifecycle.go:138","msg":"Starting sink proxy"}
 {"level":"debug","time":"2022-10-07T18:49:40.079+0530","caller":"runtime/asm_amd64.s:1594","msg":"Trying on port 443"}
