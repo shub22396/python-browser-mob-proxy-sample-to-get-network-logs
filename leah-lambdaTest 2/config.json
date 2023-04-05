@@ -1,0 +1,150 @@
+[
+    {
+        "customer": "JohnnyWas",
+        "customer_id": "1531c0dd7ae226c9d9739f6d8917339a",
+        "use_random_ua": true,
+        "configs": [
+            {
+                "locale": "us",
+                "desktop_configs": {
+                    "timeout": 8,
+                    "retry_times": 3,
+                    "homepage_url": "https://www.johnnywas.com/",
+                    "plp_url": "https://www.johnnywas.com/clothing/dresses.html",
+                    "pdp_url": "https://www.johnnywas.com/recycled-cashmere-cowl-neck-burgundy.html",
+                    "cart_url": "https://www.johnnywas.com/checkout/cart/",
+                    "zero_search_url": "https://www.johnnywas.com/catalogsearch/result/?q=swxqob",
+                    "homepage_elements": [
+                        "sm_el_45fc350c061644acae23ef3b7e8aa2c7"
+                    ],
+                    "cart_elements": [
+                        "sm_el_aa715db13fbe4aae8cc591642d43e2c6"
+                    ],
+                    "pdp_elements": [
+                        "sm_el_a8f4325569854c8182c0504b6ff0a6fd"
+                    ],
+                    "plp_elements": [
+                        "sm_el_576b40d67d354f66b1983995cf900185"
+                    ],
+                    "zero_search_elements": [
+                        "sm_el_52c6bac9f587434ea0b22e900e30c469"
+                    ],
+                    "accept_cookie_btn_selector": "#onetrust-accept-btn-handler",
+                    "category_plp_selector": "#ui-id-4",
+                    "plp_product_selector": "#amasty-shopby-product-list > div.products-grid > ol > li > div > a",
+                    "add_to_cart_btn_selector": "#product-addtocart-button",
+                    "select_size_btn_selector": "#product-options-wrapper > div > div > div.size > div > div[tabindex='0']",
+                    "cart_btn_selector": ".minicart-wrapper",
+                    "search_btn_selector": ".search-trigger-link",
+                    "rec_urls_selector": ".x2_product a",
+                    "search_input_selector": "#search",
+                    "num_404_test_pages": 5,
+                    "num_static_rec_test_pages": 10
+                },
+                "mobile_configs": {
+                    "timeout": 8,
+                    "retry_times": 3,
+                    "homepage_url": "https://www.johnnywas.com/",
+                    "plp_url": "https://www.johnnywas.com/clothing/dresses.html",
+                    "pdp_url": "https://www.johnnywas.com/sleeveless-waffle-top-vector-charcoal-heather.html",
+                    "cart_url": "https://www.johnnywas.com/checkout/cart/",
+                    "zero_search_url": "https://www.johnnywas.com/catalogsearch/result/?q=swxqob",
+                    "four_oh_four_url": "https://www.johnnywas.com/pizza",
+                    "homepage_elements": [
+                        "sm_el_8c17b8b73e7c43458c62ae995cdc4d53"
+                    ],
+                    "pdp_elements": [
+                        "sm_el_a8f4325569854c8182c0504b6ff0a6fd"
+                    ],
+                    "plp_elements": [
+                        "sm_el_576b40d67d354f66b1983995cf900185"
+                    ],
+                    "zero_search_elements": [
+                        "sm_el_2a184291426942d9b637c179d7fe3aa5"
+                    ],
+                    "four_oh_four_elements": [
+                        "sm_el_115521f2951d40d4a180da46a17a5458"
+                    ],
+                    "navigation_selector": "span.nav-toggle",
+                    "category_plp_selector": "#ui-id-5",
+                    "plp_product_selector": "#amasty-shopby-product-list > div.products-grid > ol > li > div > a",
+                    "add_to_cart_btn_selector": "#product-addtocart-button",
+                    "select_size_btn_selector": "#product-options-wrapper > div > div > div.size > div > div[tabindex='0']",
+                    "cart_btn_selector": ".minicart-wrapper",
+                    "rec_urls_selector": ".x2_product a",
+                    "search_input_selector": "#search",
+                    "num_404_test_pages": 5,
+                    "num_static_rec_test_pages": 10
+                }
+            }
+        ]
+    },
+    {
+        "customer": "Valentino",
+        "customer_id": "8826cdcf576271414b9be3efb19b8308",
+        "use_random_ua": true,
+        "configs": [
+            {
+                "locale": "it",
+                "desktop_configs": {
+                    "timeout": 8,
+                    "retry_times": 3,
+                    "homepage_url": "https://www.valentino.com/it-it",
+                    "plp_url": "https://www.valentino.com/it-it/uomo/abbigliamento/t-shirt-e-felpe",
+                    "pdp_url": "https://www.valentino.com/it-it/felpe_cod22250442025613500.html#dept=DI_Tshirts-Sweatshirts_M",
+                    "zero_search_url": "https://www.valentino.com/Search/Index?textSearch=asdddxxa&siteCode=VALENTINO_IT&langId=2&textSearchFilters=3074457345616677676",
+                    "four_oh_four_url": "https://www.valentino.com/it-it/asdfasdf",
+                    "pdp_elements": [
+                        "sm_el_56e00a9d72f643dab8368d5187f1d197"
+                    ],
+                    "plp_elements": [
+                        "sm_el_ab174b7a682c4472926cdb554880a990"
+                    ],
+                    "zero_search_elements": [
+                        "sm_el_83cc26b06b694d5a901c0a60f8d07618"
+                    ],
+                    "four_oh_four_elements": [
+                        "sm_el_5525cd86862f409490ea2353a9bfd3e9"
+                    ],
+                    "accept_cookie_btn_selector": "#footer_tc_privacy_button",
+                    "navigation_selector": ".vHeader__nav > ul.level-0 > li:nth-child(6) > button",
+                    "category_plp_selector": ".di_tshirts-sweatshirts_m > a",
+                    "plp_product_selector": ".products__list > li:nth-child(1)",
+                    "search_btn_selector": ".vHeaderIcons__item--search > button",
+                    "rec_urls_selector": ".x2_productWrapper > div > a",
+                    "search_input_selector": "input#textSearch",
+                    "num_404_test_pages": 5,
+                    "num_static_rec_test_pages": 10
+                },
+                "mobile_configs": {
+                    "timeout": 8,
+                    "retry_times": 3,
+                    "homepage_url": "https://www.valentino.com/it-it",
+                    "plp_url": "https://www.valentino.com/it-it/uomo/abbigliamento/t-shirt-e-felpe",
+                    "pdp_url": "https://www.valentino.com/it-it/felpe_cod22250442025613500.html#dept=DI_Tshirts-Sweatshirts_M",
+                    "zero_search_url": "https://www.valentino.com/Search/Index?textSearch=asdddxxa&siteCode=VALENTINO_IT&langId=2&textSearchFilters=3074457345616677676",
+                    "four_oh_four_url": "https://www.valentino.com/it-it/asdfasdf",
+                    "pdp_elements": [
+                        "sm_el_56e00a9d72f643dab8368d5187f1d197"
+                    ],
+                    "plp_elements": [
+                        "sm_el_ab174b7a682c4472926cdb554880a990"
+                    ],
+                    "zero_search_elements": [
+                        "sm_el_83cc26b06b694d5a901c0a60f8d07618"
+                    ],
+                    "four_oh_four_elements": [
+                        "sm_el_5525cd86862f409490ea2353a9bfd3e9"
+                    ],
+                    "accept_cookie_btn_selector": "#footer_tc_privacy_button",
+                    "plp_product_selector": ".products__list > li:nth-child(1)",
+                    "search_btn_selector": ".vHeaderIcons__item--textSearch > button > span.icon",
+                    "rec_urls_selector": ".x2_productWrapper > div > a",
+                    "search_input_selector": "input#textSearch",
+                    "num_404_test_pages": 5,
+                    "num_static_rec_test_pages": 10
+                }
+            }
+        ]
+    }
+]
