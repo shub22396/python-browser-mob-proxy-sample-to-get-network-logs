@@ -15,7 +15,7 @@ from selenium.webdriver.chrome.options import Options
 
 
 username = "shubhamr"  # Replace the username
-access_key = "dl8Y8as59i1YyGZZUeLF897aCFvIDmaKkUU1e6RgBmlgMLIIhh"  # Replace the access key
+access_key = ""  # Replace the access key
 
 
 class FirstSampleTest(unittest.TestCase):
@@ -41,7 +41,7 @@ class FirstSampleTest(unittest.TestCase):
         print('port-------',self.port)
         print('proxy-------',proxyf)
 
-        shell = './LT --user shubhamr@lambdatest.com --key dl8Y8as59i1YyGZZUeLF897aCFvIDmaKkUU1e6RgBmlgMLIIhh --ingress-only  --verbose --proxy-host localhost --proxy-port '+self.port
+        shell = './LT --user shubhamr@lambdatest.com --key authkey --ingress-only  --verbose --proxy-host localhost --proxy-port '+self.port
         print('------------->',shell)
         subprocess.Popen(shell,shell=True)
         print('Tunnel initiated')
